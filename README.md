@@ -1,2 +1,2 @@
-Projeto feito na plataforma Alura.
+Projeto feito na plataforma Alura.  
 Acesse por aqui: https://iambel.github.io/alura-plus/
